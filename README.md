@@ -1,11 +1,12 @@
 # Matrix-Project
 
 # Components
-1. Matrix
-
-# Technical Task
-
-
+• Arduino Uno Board
+• Joystick
+• 8x8 LED Matrix
+• MAX7219
+• Resistors and capacitors as needed
+• Breadboard and connecting wires
 
 # Photo of setup
 
