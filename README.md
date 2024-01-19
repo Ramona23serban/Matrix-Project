@@ -11,7 +11,7 @@
 # Description 
 I made a simple snake game, where the goal is for the snake to collect as much food as possible. When he hits any matrix wall or himself, the game ends, displaying a "GAME OVER" message. It will be displayed immediately after the position in which he died, after which you can start a new game by pressing the joystick.
 
-Source code: https://teams.microsoft.com/l/message/19:8116c901-e0ae-4b75-b708-ce614e10815e_877337d5-33f8-45ac-804a-e27bd2342254@unq.gbl.spaces/1702894990737?context=%7B%22contextType%22%3A%22chat%22%7D
+Source code: https://projecthub.arduino.cc/Hunter1234/snake-led-matrix-game-59f6ae
 
 # Photo of setup
 
