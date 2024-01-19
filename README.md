@@ -8,6 +8,9 @@
 • Resistors and capacitors as needed
 • Breadboard and connecting wires
 
+# Description 
+I made a simple snake game, where the goal is for the snake to collect as much food as possible. When he hits any matrix wall or himself, the game ends, displaying a "GAME OVER" message. It will be displayed immediately after the position in which he died, after which you can start a new game by pressing the joystick.
+
 # Photo of setup
 
 ![matrix1](https://github.com/Ramona23serban/Matrix-Project/assets/116956079/40b9097c-e88c-42d6-935b-1fad8f04a0ca)
